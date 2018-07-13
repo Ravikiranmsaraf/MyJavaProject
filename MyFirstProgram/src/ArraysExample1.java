@@ -7,8 +7,8 @@ public class ArraysExample1 {
 		marks.add(45);
 		marks.add(2, 34);
 		
-		for (int i=0;i<marks.size();i++)
-			System.out.println("At index " + i + " have value " + marks.get(i));
+		for (int a=0;i<marks.size();a++)
+			System.out.println("At index " + a + " have value " + marks.get(a));
 		
 	}
 
